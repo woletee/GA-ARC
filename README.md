@@ -19,5 +19,5 @@ This repository contains a Python implementation of a system designed to generat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Auto-ARC.git
+   git clone https://github.com/woletee/Auto-ARC.git
    cd Auto-ARC
