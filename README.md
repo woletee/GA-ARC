@@ -16,4 +16,4 @@ Augumented ARC tasks
 1. Clone this repository:
    ```bash
    git clone https://github.com/woletee/Auto-ARC.git
-   cd Auto-ARC
+
